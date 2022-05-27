@@ -2,7 +2,11 @@
 
 <h1 align="center">BioKU</h1>
 
-<img src="https://ferdianandaid.github.io/bioku/img/profile.png" alt="BioKU" style="width: 50%; height: auto;" >
+<img src="https://ferdianandaid.github.io/bioku/img/profile.png" alt="BioKU" style="width: 25%; height: auto; display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;" >
 
 <p align="center">BioKU adalah website seperti LinkTree yang dibuat oleh Ferdi Ananda menggunakan HTML, CSS dan Bootstrap.</p>
 
